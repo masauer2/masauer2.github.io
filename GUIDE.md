@@ -1,6 +1,3 @@
-layout: page
-title: "GUIDE"
-permalink: /docs/
 # NOTE ON 05.30.2023
 # NEED TO TEST PUSHING PERMISSIONS
 Here is how you can push changes to the main branch. 
