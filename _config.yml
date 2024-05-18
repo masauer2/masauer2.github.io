@@ -21,7 +21,7 @@
 title: M.A Sauer Website
 email: masauer2@asu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-	Website to store documentation for academic codebases, links to other projects.
+Website to store documentation for academic codebases, links to other projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  masauer2
