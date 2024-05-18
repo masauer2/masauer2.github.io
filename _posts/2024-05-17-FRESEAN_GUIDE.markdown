@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "FRESEAN Documentation"
 date:   2024-05-17 17:23:56 -0700
 categories: jekyll update
 ---
