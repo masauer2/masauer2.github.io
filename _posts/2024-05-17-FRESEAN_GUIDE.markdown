@@ -143,13 +143,8 @@ as collective variables
 <summary> FRESEAN Toolbox Workflow </summary>
 
 # FRESEAN Toolbox Workflow
-This is a flowchart of the process used to generate a 2D Free Energy Surface using FRESEAN Modes as CVs. The scripts used to do so are provided in the `scripts/metad_workflow` folder. <br>
 
-<p align="center">
-  <img src="imgs/workflow.jpg" width="500" />
-</p>
-
-Here is a summarized version of the workflow described above. First, a high-frequency short simulation (10 ns with 20 fs output frequency is what was tested) is run and cross-correlation matrices are generated from the simulation. Then, these matrices are diagonalized and the vibrational modes are extracted into PLUMED format and used as collective variables in matedynamics simulations.
+Here is a summarized version of the workflow. First, a high-frequency short simulation (10 ns with 20 fs output frequency is what was tested) is run and cross-correlation matrices are generated from the simulation. Then, these matrices are diagonalized and the vibrational modes are extracted into PLUMED format and used as collective variables in matedynamics simulations.
 
 </details>
 
