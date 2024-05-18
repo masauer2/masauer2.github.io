@@ -8,6 +8,10 @@ categories: jekyll update
 # Frequency-Selective Anharmonic Mode Analysis of Thermally Excited Vibrations in Proteins (With Coarse Graining!) 
 This codebase allows the user to run MD simulations of proteins and generate vibrational motions utilizing FRESEAN, a method used to extract low-frequency anharmonic vibrational modes of proteins. 
 Please read through each of the following sections to understand how to use this repository. 
+
+```
+code
+```
 <details>
   
 <summary> FRESEAN Installation </summary>
