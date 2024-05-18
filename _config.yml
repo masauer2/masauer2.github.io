@@ -33,6 +33,7 @@ plugins:
 kramdown:  
   parse_block_html: true
 
+markdown_ext: "markdown, mkdown, mkdn, mkd, md"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
